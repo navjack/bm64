@@ -32,3 +32,6 @@ expected/
 *.txt
 *.c
 *.i
+
+# --- macOS port: build artifacts, ROMs and local machine state ---
+*.app/
